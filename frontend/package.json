@@ -1,0 +1,56 @@
+{
+  "name": "gym-fitness-website-template",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "axios": "^1.10.0",
+    "framer-motion": "^10.16.4",
+    "jwt-decode": "^4.0.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-icons": "^4.12.0",
+    "react-router-dom": "^7.6.2",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "dev": "vite",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.4",
+    "tailwindcss": "^3.4.17",
+    "vite": "^6.3.5"
+  },
+  "description": "Fitness is a Tailwind CSS template for fitness websites. This responsive gym website template is an elegant site skin for fitness centers, gyms, yoga studios, and other related organizations. Moreover, it has a fantastic design with fully responsive layouts. The dark outlook will surely spark the interest of the audience. FitnessClub is all set and ready to go right off the bat and work seamlessly on any browser or device.Besides, the bundle of features contains quite a bunch of impressive and dynamic features. You will find hero header, parallax effect, call to action button, drop-down menu, modal video player, hover effects, and a whole lot more inside the box. FitnessClus is absolutely easy to customize and changeable into the appearance of your desire. Last but not least, make your own place on the web with FitnessClub and shine online",
+  "main": "tailwind.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
